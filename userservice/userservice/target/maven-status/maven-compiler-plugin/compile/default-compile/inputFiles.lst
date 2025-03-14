@@ -1,0 +1,9 @@
+D:\spring-boot-ext\userservice\userservice\src\main\java\com\singhdevhub\userservice\config\UserServiceConfig.java
+D:\spring-boot-ext\userservice\userservice\src\main\java\com\singhdevhub\userservice\consumer\AuthServiceConsumer.java
+D:\spring-boot-ext\userservice\userservice\src\main\java\com\singhdevhub\userservice\controller\UserController.java
+D:\spring-boot-ext\userservice\userservice\src\main\java\com\singhdevhub\userservice\deserializer\UserInfoDeserializer.java
+D:\spring-boot-ext\userservice\userservice\src\main\java\com\singhdevhub\userservice\entities\UserInfo.java
+D:\spring-boot-ext\userservice\userservice\src\main\java\com\singhdevhub\userservice\entities\UserInfoDto.java
+D:\spring-boot-ext\userservice\userservice\src\main\java\com\singhdevhub\userservice\repository\UserRepository.java
+D:\spring-boot-ext\userservice\userservice\src\main\java\com\singhdevhub\userservice\service\UserService.java
+D:\spring-boot-ext\userservice\userservice\src\main\java\com\singhdevhub\userservice\UserserviceApplication.java

@@ -1,0 +1,10 @@
+com\singhdevhub\userService\repository\UserRepository.class
+com\singhdevhub\userService\entities\UserInfoDto.class
+com\singhdevhub\userService\service\UserService.class
+com\singhdevhub\userService\controller\UserController.class
+com\singhdevhub\userService\consumer\AuthServiceConsumer.class
+com\singhdevhub\userService\deserializer\UserInfoDeserializer.class
+com\singhdevhub\userService\config\UserServiceConfig.class
+com\singhdevhub\userService\entities\UserInfo.class
+com\singhdevhub\userService\UserserviceApplication.class
+com\singhdevhub\userService\entities\UserInfo$UserInfoBuilder.class
